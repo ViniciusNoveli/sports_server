@@ -1,0 +1,7 @@
+tags:
+  - name: auth
+    description: Authentication routes
+  - name: profile
+    description: User profile information
+  
+
